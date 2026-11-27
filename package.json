@@ -1,5 +1,5 @@
 {
-  "name": "saltcorn-bootstrap-layout",
+  "name": "saltcorn-bootstraptheme",
   "version": "1.0.0",
   "description": "Eigenständiges, konfigurierbares Bootstrap-5-Layout für Saltcorn",
   "main": "index.js",
