@@ -1,0 +1,10 @@
+{
+  "name": "saltcorn-bootstrap-layout",
+  "version": "1.0.0",
+  "description": "Eigenständiges, konfigurierbares Bootstrap-5-Layout für Saltcorn",
+  "main": "index.js",
+  "private": true,
+  "license": "MIT",
+  "peerDependencies": {"@saltcorn/data": "1.x", "@saltcorn/markup": "1.x"},
+  "scripts": {"test": "node --test"}
+}
